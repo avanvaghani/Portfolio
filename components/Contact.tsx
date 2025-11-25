@@ -178,7 +178,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-white font-medium">Location</h4>
-                  <p className="text-gray-400">Surat, India</p>
+                  <p className="text-gray-400">Bhavnagar, Gujarat, India</p>
                 </div>
               </div>
               
@@ -207,7 +207,7 @@ export default function Contact() {
               <h4 className="text-white font-medium mb-4">Social profiles</h4>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/aevanvaghani" 
+                  href="https://github.com/avanvaghani" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-[#0d1526] border border-[#08d9d6]/30 flex items-center justify-center
