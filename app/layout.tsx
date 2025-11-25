@@ -6,7 +6,7 @@ import TechBackground from '@/components/TechBackground'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Aevan Vaghani - SDET Portfolio',
+  title: 'Avan Vaghani - SDET Portfolio',
   description: 'Professional portfolio showcasing my testing and automation skills',
 }
 
